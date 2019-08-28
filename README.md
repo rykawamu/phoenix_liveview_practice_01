@@ -13,5 +13,5 @@ Phoenix LiveViewを利用した検索機能の例。
 
 サーバが起動したら、以下のURLにアクセスする。
 
-localhost:4000/connpass
+<http://localhost:4000/connpass>
 
